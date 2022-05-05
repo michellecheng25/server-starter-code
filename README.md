@@ -6,6 +6,8 @@ Michelle Cheng (me)
 
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
 
+client code: https://github.com/michellecheng25/client-starter-code
+
 ### Prerequisites
 
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
